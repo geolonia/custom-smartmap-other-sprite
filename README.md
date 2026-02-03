@@ -29,4 +29,4 @@
 - `sprite@2x.json` - 2x解像度のスプライト情報
 
 ### プレビューの確認
-https://geolonia.github.io/custom-smartmap-sprite/
+https://geolonia.github.io/custom-smartmap-other-sprite/
